@@ -17,8 +17,8 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
             /*foreach (var item in sayilar1)
-            {
-                Console.WriteLine(sayilar1[0]);
+            {w
+w www               Console.WriteLine(sayilar1[0]);
             }*/
             Console.WriteLine(sayilar1[0]);
             //sayilar1[0] 999
